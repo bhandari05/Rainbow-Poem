@@ -8,4 +8,8 @@ unicorn
 orange
 indigo
 red
+rain
+sun
+prism
+reflection
 These are the colors of raibow and unicorn.
