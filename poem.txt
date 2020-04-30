@@ -1,6 +1,7 @@
 The rainbow
 purple
 pink
+blue
 orange
 red
 These are the colors of raibow.
